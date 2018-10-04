@@ -1,0 +1,72 @@
+[2018-10-04 03:39:34] Error text: Page not found | File: C:\openserver\OSPanel\domains\ishoploc\public\index.php | Line: 7
+        
+=======================================
+[2018-10-04 03:51:22] Error text: Page not found | File: C:\openserver\OSPanel\domains\ishoploc\public\index.php | Line: 7
+        
+=======================================
+[2018-10-04 03:51:46] Error text: Page not found | File: C:\openserver\OSPanel\domains\ishoploc\public\index.php | Line: 7
+        
+=======================================
+[2018-10-04 03:51:51] Error text: Page not found | File: C:\openserver\OSPanel\domains\ishoploc\public\index.php | Line: 7
+        
+=======================================
+[2018-10-04 03:51:54] Error text: Page not found | File: C:\openserver\OSPanel\domains\ishoploc\public\index.php | Line: 7
+        
+=======================================
+[2018-10-04 03:55:41] Error text: Page not found | File: C:\openserver\OSPanel\domains\ishoploc\public\index.php | Line: 7
+        
+=======================================
+[2018-10-04 03:56:01] Error text: Page not found | File: C:\openserver\OSPanel\domains\ishoploc\public\index.php | Line: 7
+        
+=======================================
+[2018-10-04 03:57:51] Error text: Page not found | File: C:\openserver\OSPanel\domains\ishoploc\public\index.php | Line: 7
+        
+=======================================
+[2018-10-04 03:58:52] Error text: Page not found | File: C:\openserver\OSPanel\domains\ishoploc\public\index.php | Line: 7
+        
+=======================================
+[2018-10-04 03:59:21] Error text: Page not found | File: C:\openserver\OSPanel\domains\ishoploc\public\index.php | Line: 7
+        
+=======================================
+[2018-10-04 04:00:23] Error text: Page not found | File: C:\openserver\OSPanel\domains\ishoploc\public\index.php | Line: 7
+        
+=======================================
+[2018-10-04 04:32:54] Error text: Page not found | File: C:\openserver\OSPanel\domains\ishoploc\vendor\ishop\core\Router.php | Line: 35
+        
+=======================================
+[2018-10-04 04:33:09] Error text: Page not found | File: C:\openserver\OSPanel\domains\ishoploc\vendor\ishop\core\Router.php | Line: 35
+        
+=======================================
+[2018-10-04 04:44:52] Error text: Class 'app\controllers\PageController' not found | File: C:\openserver\OSPanel\domains\ishoploc\vendor\ishop\core\Router.php | Line: 34
+        
+=======================================
+[2018-10-04 04:45:45] Error text: Call to undefined function ishop\lowerCamelCase() | File: C:\openserver\OSPanel\domains\ishoploc\vendor\ishop\core\Router.php | Line: 35
+        
+=======================================
+[2018-10-04 04:48:23] Error text: Контроллер app\controllers\PageController не найден | File: C:\openserver\OSPanel\domains\ishoploc\vendor\ishop\core\Router.php | Line: 42
+        
+=======================================
+[2018-10-04 04:48:30] Error text: Контроллер app\controllers\MainController не найден | File: C:\openserver\OSPanel\domains\ishoploc\vendor\ishop\core\Router.php | Line: 42
+        
+=======================================
+[2018-10-04 04:48:52] Error text: Метод app\controllers\MainController::indexAction не найден | File: C:\openserver\OSPanel\domains\ishoploc\vendor\ishop\core\Router.php | Line: 39
+        
+=======================================
+[2018-10-04 07:01:41] Error text: Class 'app\controllers\App' not found | File: C:\openserver\OSPanel\domains\ishoploc\app\controllers\MainController.php | Line: 16
+        
+=======================================
+[2018-10-04 07:20:39] Error text: Контроллер app\controllers\PageController не найден | File: C:\openserver\OSPanel\domains\ishoploc\vendor\ishop\core\Router.php | Line: 45
+        
+=======================================
+[2018-10-04 08:24:43] Error text: Контроллер app\controllers\PageController не найден | File: C:\openserver\OSPanel\domains\ishoploc\vendor\ishop\core\Router.php | Line: 44
+        
+=======================================
+[2018-10-04 08:24:52] Error text: Контроллер app\controllers\PageController не найден | File: C:\openserver\OSPanel\domains\ishoploc\vendor\ishop\core\Router.php | Line: 44
+        
+=======================================
+[2018-10-04 08:25:15] Error text: Class 'R' not found | File: C:\openserver\OSPanel\domains\ishoploc\vendor\ishop\core\Db.php | Line: 20
+        
+=======================================
+[2018-10-04 08:25:57] Error text: Class 'R' not found | File: C:\openserver\OSPanel\domains\ishoploc\vendor\ishop\core\Db.php | Line: 20
+        
+=======================================
